@@ -6,13 +6,23 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Beata <skorusbeata@gmail.com>",
   "license": "ISC",
   "dependencies": {
+    "accepts": "^1.3.7",
     "ejs": "^3.1.3",
     "express": "^4.17.1",
     "node": "^14.7.0",
     "sax": "^1.2.4",
     "socket.io": "^2.3.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BeataBarbara/karteczki.git"
+  },
+  "bugs": {
+    "url": "https://github.com/BeataBarbara/karteczki/issues"
+  },
+  "homepage": "https://github.com/BeataBarbara/index.js"
 }
